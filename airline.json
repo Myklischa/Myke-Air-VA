@@ -185,7 +185,7 @@
             "liveries": [
                 {
                     "name": "777 Livery",
-                    "texture": [],
+                    "texture": []
                 }
             ],
             "labels": [
@@ -389,7 +389,7 @@
                 "Texture"
             ]
         },
-        "3180": {"3180": {
+        "3180": {
         "name": "Boeing 787-10 Dreamliner (Etihad)",
         "liveries": [
             {
