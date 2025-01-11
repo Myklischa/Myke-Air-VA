@@ -1,0 +1,60 @@
+"2481": {
+            "name": "ATR 72-600 (HOP!)",
+            "liveries": [
+                {
+                    "name": "Myke Air",
+                    "texture": [
+                        "https://i.imgur.com/CPXeemJ.png"
+                    ],
+                    "credits": "Myklischa"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+"2899": {
+        "name": "Airbus A220-300 (Swiss)",
+        "liveries": [
+            {
+                "name": "Myke Air",
+                "texture": [
+                    "https://i.imgur.com/8D8G6Ip.png"
+                ],
+                "credits": "Myklischa"
+            }
+        ],
+        "labels": [
+            "Texture"
+        ]
+    },
+"5073": {
+        "name": "Bombardier Learjet 45 XR",
+        "liveries": [
+            {
+                "name": "Myke Air",
+                "texture": [
+                    "https://i.imgur.com/FbfBjhA.png"
+                ],
+                "credits": "Myklischa"
+            }
+        ],
+        "labels": [
+            "Texture"
+        ]
+    },
+"3180": {
+        "name": "Boeing 787-10 Dreamliner (Etihad)",
+        "liveries": [
+            {
+                "name": "Myke Air",
+                "texture": [
+                    "https://i.imgur.com/j8334uK.png"
+                ],
+                "credits": "Myklischa"
+            }
+        ],
+        "labels": [
+            "Texture"
+        ]
+    },
