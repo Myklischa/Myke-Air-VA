@@ -306,7 +306,15 @@
         },
         "2769": {
             "name": "Boeing b737-MAX8",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "Myke Air",
+                    "texture": [
+                        "https://i.imgur.com/Vn2EVML.png"
+                    ],
+                    "credits": "Myklischa"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
