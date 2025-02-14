@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Myke Air",
+    "color": "white",
+    "bgcolor": "red",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
