@@ -263,6 +263,34 @@
                 "Texture"
             ]
         },
+        "2426": {
+            "name": "ATR 42-600",
+            "liveries": [
+                {
+                    "name": "Myke Air",
+                    "texture": ["https://i.imgur.com/Z1UrzmU.png"
+                    ],
+                    "credits": "Myklischa"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2420": {
+            "name": "ATR 72-600",
+            "liveries": [
+                {
+                    "name": "Myke Air",
+                    "texture": ["https://i.imgur.com/1EgHFxM.png"
+                    ],
+                    "credits": "Myklischa"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
         "2973": {
             "name": "Airbus a350-1000",
             "liveries": [
